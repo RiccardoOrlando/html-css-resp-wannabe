@@ -164,4 +164,19 @@ img {
         flex-direction: column;
         align-items: center;
     }
+
+    .steps .col{
+        width: 100%;
+    }
+
+    .why-us{
+        background-color: #222222;
+        margin-bottom: 0;
+        padding: 3rem 0;
+    }
+
+    .steps{
+        margin-bottom: 0;
+    }
+
  }
